@@ -40,6 +40,3 @@ To insert a new user, choose option `1` and provide the user's name, age, and ci
 - Ensure the database and table exist before running the script.
 - The script assumes that the `users` table has columns `id`, `name`, `age`, and `city`.
 
-## License
-
-This script is licensed under the MIT License. See the LICENSE file for details.
